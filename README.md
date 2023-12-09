@@ -66,13 +66,13 @@ In the fast-paced world of technology, I stay on the cutting edge by constantly 
 
 - 👯 I’m looking to collaborate on **Any "MEARN" application**
 
-- 👨‍💻 All of my projects are available at [(i'm working on it)]((i'm working on it))
+<!-- - 👨‍💻 All of my projects are available at [(i'm working on it)]((i'm working on it)) -->
 
 - 💬 Ask me about **Js,React js,Mongodb,Tailwind css**
 
 - 📫 How to reach me **saifulislam10400i5@gmail.com**
 
-- 📄 Know about my experiences [(will be available)]((will be available))
+
 
 - ⚡ Fun fact **I smile a lot, even in tough situations.**
 
