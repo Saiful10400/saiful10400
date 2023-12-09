@@ -1,3 +1,6 @@
+
+<img src="https://raw.githubusercontent.com/Saiful10400/saiful10400/main/images/githubBanner.gif"/>
+
 <h1 align="center">Hi 👋, I'm Saiful</h1>
 <h3 align="center">A Enthusiast web application developer from Bangladesh.</h3>
 
@@ -45,7 +48,7 @@
         target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>
-            
+
             
  <a href="https://www.chartjs.org" target="_blank"
         rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40"
