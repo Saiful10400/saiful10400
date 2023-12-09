@@ -1,5 +1,5 @@
+![MasterHead](https://raw.githubusercontent.com/Saiful10400/saiful10400/main/images/githubBanner.gif)
 
-<img src="https://raw.githubusercontent.com/Saiful10400/saiful10400/main/images/githubBanner.gif"/>
 
 <h1 align="center">Hi 👋, I'm Saiful</h1>
 <h3 align="center">A Enthusiast web application developer from Bangladesh.</h3>
