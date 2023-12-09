@@ -25,8 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@saiful10400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@saiful10400" height="30" width="40" /></a>
-<a href="https://twitter.com/@saiful10400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@saiful10400" height="30" width="40" /></a>
+<a href="https://codepen.io/saiful10400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@saiful10400" height="30" width="40" /></a>
+<a href="https://twitter.com/saiful10400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@saiful10400" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23070212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23070212" height="30" width="40" /></a>
 <a href="https://instagram.com/saiful10400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saiful10400" height="30" width="40" /></a>
 <a href="https://www.behance.net/saiful10400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="saiful10400" height="30" width="40" /></a>
